@@ -122,12 +122,12 @@ namespace Calculator
             this.btTru.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btTru.ForeColor = System.Drawing.SystemColors.Highlight;
             this.btTru.Location = new System.Drawing.Point(383, 210);
+            this.btTru.Location = new System.Drawing.Point(396, 210);
             this.btTru.Name = "btTru";
             this.btTru.Size = new System.Drawing.Size(84, 40);
             this.btTru.TabIndex = 0;
             this.btTru.Text = "-";
             this.btTru.UseVisualStyleBackColor = true;
-            this.btTru.Click += new System.EventHandler(this.btTru_Click);
             // 
             // Form1
             // 
